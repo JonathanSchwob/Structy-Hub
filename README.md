@@ -1,2 +1,1 @@
-# Structy-Hub
-Made with [StructyHub](https://github.com/cbkinase/StructyHub)
+my solutions to structy dsa in javascript
